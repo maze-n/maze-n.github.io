@@ -406,11 +406,11 @@ a i {
 mark {
   margin-left: 2px;
   margin-right: 2px;
-  padding: 2px 4px;
+  padding: 2px 8px;
   font-size: 90%;
   color: rgb(19, 18, 29);
-  background-color: rgb(216, 190, 241);
-  border-radius: 3px;
+  background-color: #bbbbff;
+  border-radius: 20px;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
 }
@@ -426,7 +426,7 @@ mark {
   color: #477dca;
 }
 ul.icons a:hover {
-  background: rgba(0, 0, 0, 0.025);
+  background: rgb(255, 255, 255);
 }
 ul.icons li {
   display: inline-block;
@@ -635,8 +635,8 @@ body {
   color: white;
 }
 
-img {
-  border-radius: 50%;
-  width: 200px;
-  margin-left: 40px;
+p.mark {
+  font-size: 1.4rem;
+  text-align: center;
+  background: #1b1b25;
 }
