@@ -6,7 +6,7 @@
    aria-label="POSTGRES"
    version="1.1"
    id="svg14"
-   sodipodi:docname="postgres (copy).svg"
+   sodipodi:docname="solana.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -19,11 +19,11 @@
        inkscape:collect="always"
        id="linearGradient13035">
       <stop
-         style="stop-color:#dc1fff;stop-opacity:1"
+         style="stop-color:#ac00cc;stop-opacity:1"
          offset="0"
          id="stop13031" />
       <stop
-         style="stop-color:#00ffa3;stop-opacity:1"
+         style="stop-color:#00cc84;stop-opacity:1"
          offset="1"
          id="stop13033" />
     </linearGradient>
@@ -76,7 +76,8 @@
      text-rendering="geometricPrecision"
      font-size="100px"
      id="g12"
-     transform="translate(-8.5258407,-0.40922567)">
+     transform="translate(-8.5258407,-0.40922567)"
+     style="fill:#ffffff;fill-opacity:1">
     <text
        transform="scale(0.1)"
        x="665"
@@ -86,6 +87,6 @@
        font-weight="bold"
        id="text10"
        lengthAdjust="spacing"
-       style="fill:#000000;fill-opacity:1">SOLANA</text>
+       style="fill:#ffffff;fill-opacity:1">SOLANA</text>
   </g>
 </svg>
