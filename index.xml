@@ -5,16 +5,15 @@
     <link>https://maze-n.github.io/</link>
     <description>Recent content on maze-n</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://maze-n.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://maze-n.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://maze-n.github.io/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://maze-n.github.io/about/</guid>
       <description>Hey 👋! I&amp;rsquo;m a full-stack engineer, who loves problem solving as well as building cool products, working in projects of various sectors, experienced in designing and building critical features, keeping in mind human experience, scalability, and maintainability.
-My contribution in my organisation is mostly on designing, building and maintaining cloud infrastructure, backend APIs &amp;amp; services, improving code quality, as well as exploring and partaking in system design for various components / projects.</description>
+I spend my time mostly on designing, building and maintaining cloud infrastructure, backend APIs &amp;amp; services, improving code quality, as well as exploring and partaking in system design for various components / projects.</description>
     </item>
-    
   </channel>
 </rss>
